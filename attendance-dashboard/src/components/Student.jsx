@@ -62,7 +62,7 @@ export const Student = ({ student, onUpdateStatus }) => {
 
   //Añadimos los elementos dinámicos y las llamadas de los botones
   return (
-    <div className="bg-white rounded-lg">
+    <div className="bg-white rounded-lg shadow">
       <div className="flex flex-row justify-between p-4">
         <div className="flex">
           <img
